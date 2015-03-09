@@ -44,7 +44,7 @@ public class CurveDrawer {
 
 		canAddPoints = true;
 
-		currentColor = Color.RED; 
+		currentColor = Color.Blue; 
 
 		controlPoints = new ArrayList<Point>();
 	}
